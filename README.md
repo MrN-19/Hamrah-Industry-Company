@@ -20,6 +20,10 @@ Main Ui Of Software
 
 -------------------------
 
+
+## How To Run It ?
+Just Double Click On main.exe File in Windows
+
 ![Project Ui1](assets/Design/3.png)
 
 ------------------------
